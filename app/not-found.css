@@ -18,13 +18,13 @@
     padding: 12px 20px;
     border: 1px solid rgb(246, 246, 246);
     border-radius: 8px;
-    background: hsl(219, 86%, 66%);
-    color: white;
+    background: rgb(246, 246, 246);
+    color: #2d2d2d;
     font-weight: 600;
     transition: background 0.3s ease;
 
     &:hover {
-      background: hsl(219, 86%, 56%);
+      background: rgb(240, 240, 240);
     }
 
     svg {

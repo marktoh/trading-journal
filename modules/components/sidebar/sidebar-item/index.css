@@ -6,6 +6,10 @@
   cursor: pointer;
   transition: background 0.2s ease;
 
+  &.selected {
+    background: rgb(246, 246, 246);
+  }
+
   a {
     width: 100%;
     height: 100%;
@@ -14,7 +18,7 @@
   }
 
   &:hover {
-    background: hsl(220, 94%, 94%);
+    background: rgb(246, 246, 246);
 
     svg {
       transition: transform 0.3s ease;
