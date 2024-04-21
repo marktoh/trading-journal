@@ -1,7 +1,7 @@
 import { Card } from "../card";
-import LineChart from "./line-chart";
-import DashedLineChart from "./dashed-line-chart";
-import TinyAreaChart from "./tiny-area-chart";
+import LineChart from "../charts/line-chart";
+import DashedLineChart from "../charts/dashed-line-chart";
+import TinyAreaChart from "../charts/tiny-area-chart";
 
 import "./index.css";
 
