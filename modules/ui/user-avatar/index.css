@@ -1,0 +1,16 @@
+.user-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 128px;
+  height: 128px;
+  border-radius: 9999px;
+  background: rgb(212, 214, 220);
+
+  svg {
+    width: 96px;
+    height: 96px;
+    color: white;
+    stroke-width: 2px;
+  }
+}

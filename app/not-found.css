@@ -1,0 +1,35 @@
+.not-found {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+
+  a {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 12px 20px;
+    border: 1px solid rgb(246, 246, 246);
+    border-radius: 8px;
+    background: hsl(219, 86%, 66%);
+    color: white;
+    font-weight: 600;
+    transition: background 0.3s ease;
+
+    &:hover {
+      background: hsl(219, 86%, 56%);
+    }
+
+    svg {
+      width: 24px;
+      height: 24px;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+  .label {
+    font-weight: 600;
+  }
+
+  .value {
+    color: rgb(168, 168, 168);
+  }
+}

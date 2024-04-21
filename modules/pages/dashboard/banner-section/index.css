@@ -1,0 +1,8 @@
+.banner-section {
+  margin: 8px 8px 0px 8px;
+
+  .pill-list {
+    display: flex;
+    gap: 8px;
+  }
+}

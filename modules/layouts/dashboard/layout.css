@@ -1,0 +1,8 @@
+.dashboard-layout {
+  display: flex;
+  height: calc(100vh - 64px);
+
+  > *:nth-child(2) {
+    width: 100%;
+  }
+}

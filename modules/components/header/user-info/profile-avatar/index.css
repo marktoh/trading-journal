@@ -1,0 +1,16 @@
+.profile-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 9999px;
+  background: rgb(212, 214, 220);
+
+  svg {
+    width: 16px;
+    height: 16px;
+    color: white;
+    stroke-width: 2px;
+  }
+}

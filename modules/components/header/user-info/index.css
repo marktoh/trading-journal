@@ -1,0 +1,24 @@
+.user-info {
+  height: fit-content;
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+
+  .user-info-detail {
+    display: flex;
+    flex-direction: column;
+
+    .name {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #2d2d2d;
+    }
+
+    .email {
+      font-size: 0.75rem;
+      color: rgb(168, 168, 168);
+    }
+  }
+}

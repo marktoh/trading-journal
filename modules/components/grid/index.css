@@ -1,0 +1,11 @@
+.grid {
+  width: 100%;
+  padding: 24px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+  gap: 16px;
+
+  @media screen and (max-width: 1000px) {
+    width: 100%;
+  }
+}
