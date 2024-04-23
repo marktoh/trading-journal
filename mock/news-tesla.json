@@ -1,0 +1,254 @@
+{
+  "results": [
+    {
+      "id": "DERAp1angmcJE8tHclA4amv98StmCOUbcb3eUB9SFzw",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Companies I'm Watching Closely This Earnings Week",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "published_utc": "2024-04-22T15:11:42Z",
+      "article_url": "https://www.fool.com/investing/2024/04/22/50-of-my-portfolio-reports-earnings-this-week/",
+      "tickers": ["GOOGL", "INTC", "META", "TSLA", "GOOG"],
+      "image_url": "https://g.foolcdn.com/editorial/images/773805/happy-traders-wall-street-celebrating-profit-growth-win.jpg",
+      "description": "Of my portfolio, 50% reports earnings this week.",
+      "keywords": ["investing"]
+    },
+    {
+      "id": "rd_SspLvVAtStOW-MRQTCdZhyn5fAYlci56F24EIB64",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is It Time to Sell Tesla Stock and Look Elsewhere?",
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "published_utc": "2024-04-22T15:03:10Z",
+      "article_url": "https://www.fool.com/investing/2024/04/22/is-it-time-to-sell-tesla-stock-and-look-elsewhere/",
+      "tickers": ["TSLA"],
+      "image_url": "https://g.foolcdn.com/editorial/images/773782/getty-investing-time-to-sell.jpg",
+      "description": "Here's everything you need to know about the electric vehicle maker's week.",
+      "keywords": ["investing"]
+    },
+    {
+      "id": "_uLT_huIaJKawS9O6ufPzVNTtU8HUwx1sHwx5eHFIO8",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Q1 Earnings Season Gathers Pace",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T14:50:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2259374/q1-earnings-season-gathers-pace",
+      "tickers": [
+        "MSFT",
+        "V",
+        "VZ",
+        "UPS",
+        "PEP",
+        "ZION",
+        "GM",
+        "TSLA",
+        "GOOGL",
+        "META"
+      ],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2259374/q1-earnings-season-gathers-pace",
+      "image_url": "https://staticx-tuner.zacks.com/images/articles/main/67/2662.jpg",
+      "description": "Q1 Earnings Season Gathers Pace"
+    },
+    {
+      "id": "tdej_NCVvBA0K2SSyC3Go2oL7dHLtQZ-Q_cRBY3NaPk",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "My Tesla Stock Prediction for 2024",
+      "author": "newsfeedback@fool.com (Parkev Tatevosian, CFA)",
+      "published_utc": "2024-04-22T14:47:53Z",
+      "article_url": "https://www.fool.com/investing/2024/04/22/i-update-my-tesla-stock-prediction-for-2024/",
+      "tickers": ["TSLA"],
+      "image_url": "https://g.foolcdn.com/editorial/images/773703/tesla-building-with-tesla-logo-and-two-teslas-in-front.png",
+      "description": "Tesla is slashing prices, yet sales are still falling.",
+      "keywords": ["investing"]
+    },
+    {
+      "id": "3DGjGzEmG0OdVZ7XFOa7LnKu5lGVaNnppAr6PaC3wsM",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Busy Week Hoping to Shake Some Life into Markets",
+      "author": "Mark Vickery",
+      "published_utc": "2024-04-22T14:29:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2259354/busy-week-hoping-to-shake-some-life-into-markets",
+      "tickers": [
+        "MSFT",
+        "V",
+        "VZ",
+        "UPS",
+        "PEP",
+        "ZION",
+        "GM",
+        "TSLA",
+        "GOOGL",
+        "META"
+      ],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2259354/busy-week-hoping-to-shake-some-life-into-markets",
+      "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ff/65467.jpg",
+      "description": "Much of what concerns us will have been addressed by the end of the week, including important economic reports and Q1 earnings season hitting a higher gear."
+    },
+    {
+      "id": "G3sKCeavlpM_S-H0odR_9IRuPFfAxSX1T8TZO8XyT6U",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Tesla Bears Drive EV Stock To New 52-Week Lows: Will Q1 Earnings Shift Gears?",
+      "author": "Surbhi Jain",
+      "published_utc": "2024-04-22T14:21:46Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38358269/tesla-bears-drive-ev-stock-to-new-52-week-lows-will-q1-earnings-shift-gears",
+      "tickers": ["TSLA"],
+      "amp_url": "https://www.benzinga.com/amp/content/38358269",
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/04/22/Tesla-Bear.jpeg?width=1200&height=800&fit=crop",
+      "description": "Tesla Inc (NASDAQ:TSLA) will report first-quarter earnings on April 23 after market hours. \nWall Street expects 51 cents in EPS and $21.27 billion in revenues.\nThe stock is:\n\nDown over 40% so far this year\nDown about 18.57% over the past year\nRecorded a new 52-week low of $146.22 on April 19; shares close at $147.05.\n\n\nRelated: Did Tesla Just Trigger Another Brutal Price War In China? Li Auto Blinks First With Up To $4,000 Discount\nTesla Challenges: Layoffs are among the recent reasons Tesla stock is down. The Austin, Texas-based company is also in a price war in China where its price reduction tactic, to combat Chinese EV makers, has impacted margins. \nHere's how the stock is technically placed and how it maps against Wall Street estimates, ahead of Q1 earnings.\nTesla’s stock is currently experiencing a strongly bearish trend, with the share price below its 5, 20, and 50-day simple moving averages, indicating significant selling pressure and ...Full story available on Benzinga.com",
+      "keywords": [
+        "Analyst Color",
+        "Technicals",
+        "Top Stories",
+        "Analyst Ratings",
+        "Tech",
+        "Trading Ideas"
+      ]
+    },
+    {
+      "id": "ZhPVEXsSpeTpF0YRYK8QyDQGu9LAHvoCDhEXIDKqbRU",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Tesla, Meta Platforms, Microsoft and Alphabet are part of Zacks Earnings Preview",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T12:17:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2259128/tesla-meta-platforms-microsoft-and-alphabet-are-part-of-zacks-earnings-preview",
+      "tickers": ["MSFT", "TSLA", "GOOGL", "META"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2259128/tesla-meta-platforms-microsoft-and-alphabet-are-part-of-zacks-earnings-preview",
+      "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e6/1979.jpg",
+      "description": "Tesla, Meta Platforms, Microsoft and Alphabet are highlights of Zacks Earnings Preview article."
+    },
+    {
+      "id": "auaLCOdZIVPsGWBmkh62Mi73EHMNLsMt9DfmrzCWJ5g",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "ETF Winners Amid Last Week's Record Loss in \"Magnificent 7\"",
+      "author": "Sanghamitra Saha",
+      "published_utc": "2024-04-22T12:00:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2258961/etf-winners-amid-last-weeks-record-loss-in-magnificent-7",
+      "tickers": [
+        "AMZN",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "ASML",
+        "TSLA",
+        "GOOGL",
+        "CPER",
+        "META",
+        "BCIM",
+        "SARK",
+        "ALUM",
+        "MAGQ"
+      ],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2258961/etf-winners-amid-last-weeks-record-loss-in-magnificent-7",
+      "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default339.jpg",
+      "description": "Last week witnessed the largest collective loss for the \"Magnificent Seven\" technology-related stocks due to higher rates and rich valuation of those stocks."
+    },
+    {
+      "id": "IBFc_66IMWDKcgAdM7NzhXtifvxLE6_vio8l_WpMCME",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Set To Open Fresh Week Higher On Big Tech Earnings Hopes: Analyst Warns Any Letdown Could Push Market 'Deeper Into Oversold Territory'",
+      "author": "Shanthi Rexaline",
+      "published_utc": "2024-04-22T10:44:58Z",
+      "article_url": "https://www.benzinga.com/news/earnings/24/04/38353173/us-stocks-set-to-open-fresh-week-higher-on-big-tech-earnings-hopes-analyst-warns-any-letdown-could-",
+      "tickers": [
+        "LI",
+        "META",
+        "SPY",
+        "MSFT",
+        "NVDA",
+        "ZION",
+        "ACI",
+        "AMP",
+        "CLF",
+        "DGX",
+        "NUE",
+        "PKG",
+        "VZ",
+        "TSLA",
+        "QQQ",
+        "GOOGL"
+      ],
+      "amp_url": "https://www.benzinga.com/amp/content/38353173",
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/04/22/Nyc-ny---usa-may-27-2019-Nasdaq-Sign-In-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Wall Street appears to be shrugging off rate worries as major stock index futures were moderately higher in early pre-market trading on Monday in the hopes of getting some respite from Big Tech earnings. \nOversold conditions could be attracting bargain hunters who anticipate continued upside surprises from the “Magnificent Seven” tech companies reporting earnings this week.\nThese reports feature some of the biggest names in technology: Tesla, Inc. (NASDAQ:TSLA) kicks off the mega-cap earning this week on Tuesday followed by Meta Platforms, Inc. (NASDAQ:META) on Wednesday, Microsoft Corp. (NASDAQ:MSFT) and Alphabet, Inc. (NASDAQ:GOOGL) (GOOG) on Thursday.\nGlobal markets also reflect this earnings optimism. Asian markets, excluding China, closed significantly higher, and European stocks opened on a firmer note.\n                                    Futures Performance On Monday ( as of 6:20 a.m. EDT)\n\n\n\n\nFutures\nPerformance (+/-)\n\n\nNasdaq 100\n+0.76%\n\n\nS&P 500\n+0.59%\n\n\nDow\n+0.48%\n\n\nR2K\n+0.60%\n\n\n\nIn premarket trading on Monday, the SPDR S&P 500 ETF Trust (NYSE:SPY) rose 0.60% to $498.15, and the Invesco QQQ ETF (NASDAQ:QQQ) gained 0.77% to $417.84, according to Benzinga Pro data.\nCues From Past Week’s Trading:\nRate worries that sent bond yields spiking higher in the wake of some strong economic data, geopolitical tensions, and mixed earnings weighed down on sentiment in the week ended April 19. Techs led the pullback, with traders opting to dump shares of ...Full story available on Benzinga.com",
+      "keywords": [
+        "News",
+        "Earnings",
+        "Equities",
+        "Futures",
+        "Previews",
+        "Top Stories",
+        "Economics",
+        "Federal Reserve",
+        "Pre-Market Outlook",
+        "Markets",
+        "Movers",
+        "Trading Ideas"
+      ]
+    },
+    {
+      "id": "rPdzhuDKFuQu2mlWs3KT4uKaA6nfcOugLceaYKHKsQ4",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Buy Or Subscribe Monthly To Tesla FSD? Ross Gerber Says This Option Would 'Not Be A Smart Use Of Money'",
+      "author": "Shanthi Rexaline",
+      "published_utc": "2024-04-22T10:01:41Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38352604/buy-or-subscribe-monthly-to-tesla-fsd-ross-gerber-says-this-option-would-not-be-a-s",
+      "tickers": ["TSLA", "GK"],
+      "amp_url": "https://www.benzinga.com/amp/content/38352604",
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/04/22/Tesla-FSD_0.jpeg?width=1200&height=800&fit=crop",
+      "description": "Tesla, Inc. (NASDAQ:TSLA) reduced the price of its full self-driving software, now marketed as FSD Supervised, over the weekend. Tesla investor Ross Gerber on Sunday weighed in on the merits of an outright purchase of the software suite versus a monthly subscription.\nWhat Happened: The FSD Supervised is now available for $8,000, a significant reduction from the previous pricing of $12,000. Earlier this month, the company took down the monthly subscription pricing for the package from $199 to $99.\nGerber, CEO of Gerber Kawasaki Wealth and Investment Management, weighed in on the current pricing of both options. In a post on X, formerly Twitter, he said, “$100 a month is $1200 a year. Over 5 years that's $6000.”\n“Paying $8k for ...Full story available on Benzinga.com",
+      "keywords": ["News", "Analyst Color", "Equities", "Top Stories", "Tech"]
+    }
+  ],
+  "status": "OK",
+  "request_id": "c00e888ef82af9808bd847374b888413",
+  "count": 10,
+  "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyNC0wNC0yMlQxMCUzQTAxJTNBNDFaJmFzPXJQZHpodURLRnVRdTJtbFdzM0tUNHVLYUE2bmZjT3VnTGNlYVlLSEtzUTQmb3JkZXI9ZGVzY2VuZGluZyZ0aWNrZXI9VFNMQQ"
+}

@@ -1,0 +1,192 @@
+{
+  "results": [
+    {
+      "id": "A0UFm5xZp7UAI1HKSc59-Uiwq5RZ1ZSHtzZRTaiSdbI",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Stock Was Not the Only Semiconductor Stock to Plummet on Friday -- Time to Buy?",
+      "author": "newsfeedback@fool.com (Jose Najarro)",
+      "published_utc": "2024-04-22T15:43:42Z",
+      "article_url": "https://www.fool.com/investing/2024/04/22/nvidia-stock-was-not-the-only-semiconductor-stock/",
+      "tickers": ["ARM", "MSFT", "GOOGL", "AAPL", "AMZN", "NVDA", "GOOG"],
+      "image_url": "https://g.foolcdn.com/editorial/images/773796/bear-market-in-the-red-trending-down.jpg",
+      "description": "Arm Holdings stock dropped over 16% on Friday. Is now the time to buy?",
+      "keywords": ["investing"]
+    },
+    {
+      "id": "SHgSdm48mQP-qXqzpN3F6_Pbg_iPReJRCwlQZ0xV8Bw",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Assessing Your Microsoft (MSFT) Stake Ahead of Q3 Earnings",
+      "author": "Vasundhara Sawalka",
+      "published_utc": "2024-04-22T14:19:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2259333/assessing-your-microsoft-msft-stake-ahead-of-q3-earnings",
+      "tickers": ["AAPL", "MSFT", "LNVGY", "HPE"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2259333/assessing-your-microsoft-msft-stake-ahead-of-q3-earnings",
+      "image_url": "https://staticx-tuner.zacks.com/images/articles/main/49/437.jpg",
+      "description": "Microsoft's (MSFT) third-quarter fiscal 2024 results are likely to benefit from the steady adoption of the Office 365 suite and Microsoft Copilot amid improving demand for PCs."
+    },
+    {
+      "id": "tmsoiSTD2mRV6yf0ixaJxwNoA10olyVtH2pG2XEDS_c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Can Apple Afford Its $108 Billion in Long-Term Debt?",
+      "author": "newsfeedback@fool.com (Neil Patel)",
+      "published_utc": "2024-04-22T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/04/22/apple-afford-108-billion-long-term-debt/",
+      "tickers": ["AAPL"],
+      "image_url": "https://g.foolcdn.com/editorial/images/773527/using-iphone-at-desk-with-apple-watch-on.jpg",
+      "description": "Even the most financially savvy businesses can find more ways to strategically raise capital.",
+      "keywords": ["investing"]
+    },
+    {
+      "id": "fh4CcIcee6yxmPHsezhczCj3Y83B-WMuA_sOsmH5Wgk",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Stock Market News for Apr 22, 2024",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T13:25:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2259133/stock-market-news-for-apr-22-2024",
+      "tickers": ["AAPL", "NVDA", "META"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2259133/stock-market-news-for-apr-22-2024",
+      "image_url": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
+      "description": "U.S. stock ended mostly lower on Friday, with the Nasdaq closing in the red for the sixth straight session and the S&P 500 recording its third straight week of losses as tech stocks took a beating."
+    },
+    {
+      "id": "JYqt-bqpfzSAmpzGnKvVjygINDw20bs2XKfUbIP9kqk",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Microsoft, Apple, Meta Platforms and UBS",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T13:24:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2259351/the-zacks-analyst-blog-highlights-nvidia-microsoft-apple-meta-platforms-and-ubs",
+      "tickers": ["AAPL", "MSFT", "UBS", "NVDA", "META"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2259351/the-zacks-analyst-blog-highlights-nvidia-microsoft-apple-meta-platforms-and-ubs",
+      "image_url": "https://staticx-tuner.zacks.com/images/articles/main/6c/1151.jpg",
+      "description": "NVIDIA, Microsoft, Apple, Meta Platforms and UBS are part of the Zacks top Analyst Blog."
+    },
+    {
+      "id": "oT6qyttO2Fp0dWT541ozcn6r9uZsWHaUYrhH5rykOfo",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T13:00:16Z",
+      "article_url": "https://www.zacks.com/stock/news/2259017/investors-heavily-search-apple-inc-aapl-here-is-what-you-need-to-know",
+      "tickers": ["AAPL"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2259017/investors-heavily-search-apple-inc-aapl-here-is-what-you-need-to-know",
+      "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default3.jpg",
+      "description": "Apple (AAPL) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects."
+    },
+    {
+      "id": "auaLCOdZIVPsGWBmkh62Mi73EHMNLsMt9DfmrzCWJ5g",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "ETF Winners Amid Last Week's Record Loss in \"Magnificent 7\"",
+      "author": "Sanghamitra Saha",
+      "published_utc": "2024-04-22T12:00:00Z",
+      "article_url": "https://www.zacks.com/stock/news/2258961/etf-winners-amid-last-weeks-record-loss-in-magnificent-7",
+      "tickers": [
+        "AMZN",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "ASML",
+        "TSLA",
+        "GOOGL",
+        "CPER",
+        "META",
+        "BCIM",
+        "SARK",
+        "ALUM",
+        "MAGQ"
+      ],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2258961/etf-winners-amid-last-weeks-record-loss-in-magnificent-7",
+      "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default339.jpg",
+      "description": "Last week witnessed the largest collective loss for the \"Magnificent Seven\" technology-related stocks due to higher rates and rich valuation of those stocks."
+    },
+    {
+      "id": "GHlMvp4z03WhcOczy1ysA28iKmg-CidsGJUSbp2_iks",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Should WisdomTree U.S. Total Dividend ETF (DTD) Be on Your Investing Radar?",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T10:20:06Z",
+      "article_url": "https://www.zacks.com/stock/news/2258912/should-wisdomtree-us-total-dividend-etf-dtd-be-on-your-investing-radar",
+      "tickers": ["DTD", "JPM", "AAPL", "MSFT", "VTV", "SCHD"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2258912/should-wisdomtree-us-total-dividend-etf-dtd-be-on-your-investing-radar",
+      "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default36.jpg",
+      "description": "Style Box ETF report for DTD"
+    },
+    {
+      "id": "hATDC1sxOZCC5wjbQLi3ixr6NugPHVOLzzG7A0-l7H0",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Is iShares Core Dividend Growth ETF (DGRO) a Strong ETF Right Now?",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T10:20:05Z",
+      "article_url": "https://www.zacks.com/stock/news/2258920/is-ishares-core-dividend-growth-etf-dgro-a-strong-etf-right-now",
+      "tickers": ["DGRO", "AAPL", "MSFT", "XOM", "DGRW", "VIG"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2258920/is-ishares-core-dividend-growth-etf-dgro-a-strong-etf-right-now",
+      "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default44.jpg",
+      "description": "Smart Beta ETF report for DGRO"
+    },
+    {
+      "id": "dQkPZ1oocHEWMQ1eR8LYAPAyJsXzu99uyMDFmI2nxCE",
+      "publisher": {
+        "name": "Zacks Investment Research",
+        "homepage_url": "https://www.zacks.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      },
+      "title": "Should Vanguard S&P 500 Growth ETF (VOOG) Be on Your Investing Radar?",
+      "author": "Zacks Equity Research",
+      "published_utc": "2024-04-22T10:20:05Z",
+      "article_url": "https://www.zacks.com/stock/news/2258918/should-vanguard-sp-500-growth-etf-voog-be-on-your-investing-radar",
+      "tickers": ["VOOG", "AAPL", "MSFT", "NVDA", "QQQ", "VUG"],
+      "amp_url": "https://www.zacks.com/amp/stock/news/2258918/should-vanguard-sp-500-growth-etf-voog-be-on-your-investing-radar",
+      "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default42.jpg",
+      "description": "Style Box ETF report for VOOG"
+    }
+  ],
+  "status": "OK",
+  "request_id": "3d0af68e9110d8740200314728e4ec6c",
+  "count": 10,
+  "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyNC0wNC0yMlQxMCUzQTIwJTNBMDVaJmFzPWRRa1BaMW9vY0hFV01RMWVSOExZQVBBeUpzWHp1OTl1eU1ERm1JMm54Q0Umb3JkZXI9ZGVzY2VuZGluZyZ0aWNrZXI9QUFQTA"
+}

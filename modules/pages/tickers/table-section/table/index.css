@@ -1,0 +1,35 @@
+.table-wrapper {
+  padding: 8px 16px;
+  border: 1px solid rgb(246, 246, 246);
+  border-radius: 8px;
+  overflow-x: scroll;
+
+  table {
+    width: 100%;
+
+    thead {
+      border-bottom: 1px solid rgb(246, 246, 246);
+      th {
+        text-align: left;
+        padding: 0px 8px;
+        font-size: 0.875rem;
+        color: #2d2d2d;
+      }
+    }
+
+    tbody {
+      tr {
+        cursor: pointer;
+
+        &:hover {
+          background: rgb(246, 246, 246);
+        }
+
+        td {
+          padding: 16px 8px;
+          font-size: 0.875rem;
+        }
+      }
+    }
+  }
+}

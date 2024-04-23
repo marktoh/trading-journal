@@ -1,0 +1,20 @@
+.ticker-page {
+  padding: 16px 24px;
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  .description {
+    margin: 8px 0 16px;
+    max-inline-size: 80ch;
+    line-height: 1.6;
+  }
+
+  .secondary {
+    width: 100%;
+    margin: 8px 0;
+    display: flex;
+    gap: 8px;
+  }
+}
