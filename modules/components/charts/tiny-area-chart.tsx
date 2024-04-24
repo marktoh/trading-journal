@@ -71,7 +71,12 @@ export default class Example extends PureComponent {
             bottom: 5,
           }}
         >
-          <Area type="monotone" dataKey="uv" stroke="#8884d8" fill="#8884d8" />
+          <Area
+            type="monotone"
+            dataKey="uv"
+            stroke="rgb(52, 168, 83)"
+            fill="rgb(52, 168, 83)"
+          />
         </AreaChart>
       </ResponsiveContainer>
     );
