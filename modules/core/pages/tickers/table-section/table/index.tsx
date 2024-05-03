@@ -80,7 +80,7 @@ const Table = ({ isLoading, data }) => {
               <th>Last Updated</th>
             </tr>
           </thead>
-          <tbody>{data?.map((datum) => <Row {...datum} />)}</tbody>
+          <tbody>{data?.map((datum) => <Row key={datum.ticker} {...datum} />)}</tbody>
         </table>
       )}
     </div>
