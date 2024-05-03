@@ -1,4 +1,4 @@
-import { DashboardPage } from "@/modules/pages/dashboard";
+import { DashboardPage } from "@/modules/core/pages/dashboard";
 
 const Page = () => {
   return <DashboardPage />;

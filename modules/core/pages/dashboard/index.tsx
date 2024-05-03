@@ -1,6 +1,6 @@
 "use client";
 import { BannerSection } from "./banner-section";
-import { Grid } from "@/modules/components/grid";
+import { Grid } from "@/modules/core/components/grid";
 import { TransactionTableSection } from "./transaction-table-section";
 
 const DashboardPage = () => {

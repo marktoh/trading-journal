@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { TransactionTable } from "@/modules/components/transaction-table";
+import { TransactionTable } from "@/modules/core/components/transaction-table";
 
 const TransactionTableSection = () => {
   const [isLoading, setIsLoading] = useState(true);

@@ -1,4 +1,4 @@
-import { TickersPage } from "@/modules/pages/tickers";
+import { TickersPage } from "@/modules/core/pages/tickers";
 import data from "@/mock/tickers.json";
 
 const Page = () => {

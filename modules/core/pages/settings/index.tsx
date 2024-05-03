@@ -1,4 +1,4 @@
-import { UserAvatar } from "@/modules/ui/user-avatar";
+import { UserAvatar } from "@/modules/core/components/user-avatar";
 import { Field } from "./field";
 import "./index.css";
 

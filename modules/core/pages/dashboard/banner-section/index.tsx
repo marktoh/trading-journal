@@ -1,5 +1,5 @@
-import { Banner } from "@/modules/components";
-import { Pill } from "@/modules/components/pill";
+import { Banner } from "@/modules/core/components";
+import { Pill } from "@/modules/core/components/pill";
 
 import "./index.css";
 

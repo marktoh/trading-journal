@@ -1,5 +1,5 @@
-import { Header } from "@/modules/components";
-import { Sidebar } from "@/modules/components";
+import { Header } from "@/modules/core/components";
+import { Sidebar } from "@/modules/core/components";
 import "./layout.css";
 
 const DashboardLayout = ({

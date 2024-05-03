@@ -1,4 +1,4 @@
-import { TickerPage } from "@/modules/pages/ticker";
+import { TickerPage } from "@/modules/core/pages/ticker";
 import ticker from "@/mock/ticker.json";
 
 const Page = () => {
